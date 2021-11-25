@@ -1,0 +1,17 @@
+html, body
+{
+    height: 100%;
+    margin:0;
+    text-align: center;
+}
+
+body
+{
+    background-image: linear-gradient( to right top, #d892fb, #6c1482, #5b2e98);
+}
+
+h4
+{
+    color:aliceblue;
+}
+
